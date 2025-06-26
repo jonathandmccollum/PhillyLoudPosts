@@ -1,7 +1,7 @@
 ---
-title: Example title 1
-category: Show
+title: Welcome to PhillyLoud.com
+category: Misc.
 author: Jonathan McCollum
 ---
 
-# This is the title!
+This is a post about the blog in general.
