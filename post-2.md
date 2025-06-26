@@ -1,9 +1,7 @@
 ---
-title: Post 2
+title: Smelter bring the volume to Philly
 category: Show
 author: Jonathan McCollum
 ---
-
-# This is Title 2
 
 And here we have a paragraph of text.
