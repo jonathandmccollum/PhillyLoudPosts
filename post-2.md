@@ -1,5 +1,5 @@
 ---
-title: Heatloaf sends chills despite heat wave.xsdsdssdsdsdsdsd
+title: Heatloaf sends chills despite heat wave.
 category: Show
 author: Jonathan McCollum
 image: "https://i.ibb.co/xq5gQLwq/20250626-205044.jpg"
