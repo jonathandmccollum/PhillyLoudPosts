@@ -1,6 +1,6 @@
 ---
 title: Heatloaf sends chills despite heat wave.
-category: Show
+category: Gig Overview
 author: Jonathan McCollum
 image: "https://i.ibb.co/xq5gQLwq/20250626-205044.jpg"
 ---
